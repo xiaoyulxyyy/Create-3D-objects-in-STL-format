@@ -25,3 +25,5 @@ Since we have understood that STL describes only the surface geometry of 3D obje
 - 3D models are modelled out of polygons that are connected at their edges and vertices to define the shape of an object in 3D. Therefore, a collection of polygons is called a mesh
 
 ![image](https://user-images.githubusercontent.com/88549766/133472634-576cebc0-3db5-48aa-8399-4230dae27782.png)
+
+With the information above, we can proceed with coding the 3D object in STL format. 
